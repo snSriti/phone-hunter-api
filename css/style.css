@@ -39,3 +39,11 @@ h2{
 	font-weight: 700;
     margin-top: 20px;
 }
+/* footer */
+.footer{
+	background-color: rgb(17, 19, 19);
+	color: #fff;
+	margin: 0;
+	padding: 30px 40px;
+	text-align: center;
+}
